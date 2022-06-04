@@ -14,7 +14,6 @@ import {
 } from '../../knex/common';
 import {
   Bom,
-  OrderProduction,
 } from '../../schema';
 import * as _ from 'lodash';
 import {
